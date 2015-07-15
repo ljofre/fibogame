@@ -1,0 +1,7 @@
+.container {
+  height: 300px;
+  width: 485.40000000000003px;
+  background: tomato;
+  display: flex;
+  flex-direction: column;
+}
